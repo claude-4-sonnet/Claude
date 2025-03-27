@@ -1,4 +1,4 @@
-45# Claude AI 中文版：Claude 3.7 Sonnet官网入口，国内直连指南~ 【2025年更新】
+# Claude AI 中文版：Claude 3.7 Sonnet官网入口，国内直连指南~ 【2025年更新】
 
 > 更新时间：2025-03-27           
 
