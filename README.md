@@ -1,6 +1,6 @@
 # Claude AI 中文版：Claude 3.7 Sonnet官网入口，国内直连指南~ 【2025年更新】
 
-> **更新时间：2025-05-22**                
+> **更新时间：2025-05-23**                
 
 全面体验 [**Claude AI 中文版**](https://chat.lanjing.pro)，**国内直连，无需翻墙**，**支持 Claude 3.7 Sonnet 及中文版功能**   
 
