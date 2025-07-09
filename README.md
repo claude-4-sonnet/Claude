@@ -1,6 +1,6 @@
 # Claude AI 中文版：Claude 4 Sonnet官网入口，国内直连指南~ 【2025年更新】
 
-> **更新时间：2025-07-10**      
+> **更新时间：2025-07-11**      
 
 全面体验 [**Claude AI 中文版**](https://chat.lanjingai.org)，**国内直连，无需翻墙**，**支持 Claude 4 Sonnet 及中文版功能**   
 
